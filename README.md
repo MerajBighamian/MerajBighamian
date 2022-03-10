@@ -1,7 +1,10 @@
-### Hi there 👋
+# Hi 👋
 
 
-**MerajBighamian/MerajBighamian** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Im Meraj Bighamian
+
+### Im FullStack Developer
+
 
 Here are some ideas to get you started:
 
@@ -14,6 +17,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: Meraj
 - ⚡ Fun fact: I like all programming language :)
 
+main skills &rarr; **Python and Djnago**
+
 <img src="https://github-readme-stats.vercel.app/api?username=merajbighamian&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515"/>
 
-main skills &rarr; **Python and Djnago**
