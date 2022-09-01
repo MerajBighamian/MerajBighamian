@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - 💬 Ask me about My skill
 - 📫 How to reach me: merajbighamian@gmail.com
 - 😄 Pronouns: Meraj
-- ⚡ Fun fact: I like all programming language :)
+- ⚡ Fun fact: I like all programming languages :)
 
 main skills &rarr; **Python and Djnago**
 
